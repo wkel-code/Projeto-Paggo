@@ -1,7 +1,8 @@
 Repositório Paggo Upload - React App para Upload de Arquivos
+
 Este repositório contém o código-fonte de um aplicativo React simples para upload de arquivos. O aplicativo permite que usuários selecionem e enviem arquivos PDF, JPG e PNG para um servidor backend (não incluso neste repositório).
 
-Funcionalidades
+Funcionalidades:
 Seleção de arquivos através de input oculto.
 Validação do tipo de arquivo (PDF, JPG, PNG).
 Feedback visual para o status do upload (sucesso, erro, carregando).
