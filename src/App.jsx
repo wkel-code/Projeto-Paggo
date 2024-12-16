@@ -6,14 +6,15 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   build: {
-  outDir: 'build'
-      
+  outDir: 'build',
+  },
+});
+     
 function App() {
   const [file, setFile] = useState(null);
   const [fileName, setFileName] = useState('');
   const [uploading, setUploading] = useState(false);
   const [uploadStatus, setUploadStatus] = useState('');
-
 
   const handleFileUpload = (event) => {
     const uploadedFile = event.target.files[0];
