@@ -23,7 +23,8 @@ Inicie o servidor de desenvolvimento:
 Bash
 
 npm start
-O aplicativo estará acessível em http://localhost:3000/
+
+O aplicativo estará acessível em: 
 
 Contribuindo
 Sinta-se livre para contribuir com melhorias e correções no código. Abra um pull request para propor alterações.
