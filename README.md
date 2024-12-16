@@ -24,7 +24,7 @@ Bash
 
 npm start
 
-O aplicativo estará acessível em: 
+O aplicativo estará acessível em: https://projeto-paggo.vercel.app/
 
 Contribuindo
 Sinta-se livre para contribuir com melhorias e correções no código. Abra um pull request para propor alterações.
